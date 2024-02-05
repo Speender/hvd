@@ -10,7 +10,7 @@ yesBtn.addEventListener("click", () => {
     "https://gifdb.com/images/high/cat-kiss-love-hearts-fmy9xzekhcve1nen.gif";
 });
 
-noBtn.addEventListener("click", () => { // Fixed typo here (changed noBtnBtn to noBtn)
+noBtn.addEventListener("click", () => {
   question.innerHTML = "TF YOU MEAN NO?";
   gif.src =
     "https://media1.tenor.com/m/yNMGjXsoYGUAAAAd/cat-cats.gif";
